@@ -1,2 +1,2 @@
-# MIS311_Portfolio_Le-Thi-My-Ng-c
-this assignment is designed to develop my personal skills in data nanalysis and professional online presence.
+**1. Data Overview**
+The dataset used in this analysis is named **“06_Students_Performance”** and contains **200 rows** and **8 columns**. It provides information about students’ academic performance, including demographic factors such as **gender, race/ethnicity, and parental level of education, along with their math, reading, and writing scores**. Two additional columns: total_score and average_score , represent each student’s overall academic performance.
