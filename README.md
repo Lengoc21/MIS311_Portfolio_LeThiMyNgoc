@@ -21,7 +21,9 @@ Students whose parents have an associate’s degree or some college education ac
 
 
 <img width="530" height="329" alt="image" src="https://github.com/user-attachments/assets/18906617-e1e6-4f4e-958f-5176bd1b0737" /> 
-<img width="164" height="131" alt="image" src="https://github.com/user-attachments/assets/9c717093-42a7-48d0-8b74-13dd557073bb" /> <img width="181" height="175" alt="image" src="https://github.com/user-attachments/assets/55c76c46-4d49-4b66-b330-56e89cef60b1" />
+
+<img width="164" height="131" alt="image" src="https://github.com/user-attachments/assets/9c717093-42a7-48d0-8b74-13dd557073bb" /> 
+<img width="181" height="175" alt="image" src="https://github.com/user-attachments/assets/55c76c46-4d49-4b66-b330-56e89cef60b1" />
 
 
 **Summary:** 
