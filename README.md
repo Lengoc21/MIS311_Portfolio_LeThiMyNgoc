@@ -1,6 +1,20 @@
 **1. Data Overview**
 
-The dataset used in this analysis is named **“06_Students_Performance”** and contains **200 rows** and **8 columns**. It provides information about students’ academic performance, including demographic factors such as **gender, race/ethnicity, and parental level of education, along with their math, reading, and writing scores**. Two additional columns: total_score and average_score , represent each student’s overall academic performance.
+The **“Student Performance”** dataset contains information about students’ demographics and academic results in Math, Reading, and Writing. After cleaning, it includes **199 rows and 8 columns**. The data aims to analyze how parental education and demographic factors affect students’ academic performance.
+
+<img width="1934" height="766" alt="image" src="https://github.com/user-attachments/assets/68a6ddd4-d459-41b6-8c4e-c9e1a4987fb3" />
+I used a Pivot Table to identify the most frequent value, which is "associate's degree", and filled the missing values accordingly.
+<img width="678" height="292" alt="image" src="https://github.com/user-attachments/assets/f0244015-5949-4777-a587-8bed5d06bffc" />
+
+<img width="272" height="121" alt="image" src="https://github.com/user-attachments/assets/2a1b016e-3fd5-4e55-8857-95335c9797ed" />
+
+I found 3 duplicated value and then removed.
+ 
+![33E2DD24-D8B9-4526-875F-5991AE28F11A](https://github.com/user-attachments/assets/fd758aa1-eab1-4dcc-b97e-ea847877d34a) 
+
+After cleaning, the dataset contains 199 rows and 8 columns.
+All missing and duplicate values were successfully handled, resulting in a clean, consistent, and ready-to-analyze dataset.
+
 
 **2. Data Cleaning**
 <img width="1906" height="766" alt="image" src="https://github.com/user-attachments/assets/5344bc2a-e09b-48b3-8432-c563fe4ee999" />
