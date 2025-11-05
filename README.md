@@ -1,6 +1,6 @@
 **1. Data Overview**
 
-The **“Student Performance”** dataset contains information about students’ demographics and academic results in Math, Reading, and Writing. After cleaning, it includes **199 rows and 8 columns**. The data aims to analyze how parental education and demographic factors affect students’ academic performance.
+The **“Student Performance”** dataset contains information about students’ demographics and academic results in Math, Reading, and Writing. After cleaning, it includes **202 rows and 8 columns**. The data aims to analyze how parental education and demographic factors affect students’ academic performance.
 
 <img width="774" height="300" alt="image" src="https://github.com/user-attachments/assets/01ff7622-d077-4375-8a26-bafd76d88c2a" />
 
