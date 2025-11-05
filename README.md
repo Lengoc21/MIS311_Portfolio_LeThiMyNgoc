@@ -43,6 +43,6 @@ Students from **Group E have the highest average score** (around 74), while thos
 This suggests that race and ethnicity may influence learning outcomes, possibly due to differences in socioeconomic conditions, access to educational resources, or cultural learning support among groups.
 
 **Summary:** 
-Key insights are valuable for teachers, school administrators, and policymakers, as it highlights the strong link between parental education and student achievement. Understanding this relationship helps schools design appropriate learning support programs that promote equal opportunities and academic growth for all students, regardless of their parents’ education level.
+Key insights are valuable for **teachers, school administrators, and policymakers**, as it highlights the strong link between parental education and student achievement. Understanding this relationship helps schools design appropriate learning support programs that promote equal opportunities and academic growth for all students, regardless of their parents’ education level.
 
 
